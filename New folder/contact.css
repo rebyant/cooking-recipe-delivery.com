@@ -1,0 +1,43 @@
+.contact{background-color: rgba(34, 141, 82, 0.938);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 25px;
+    width: 1000px;
+    text-align: center;}
+    .contact a{padding-left: 20px;
+        padding-right: 20px;
+        text-decoration: none;
+        font-size:20px;}
+    .contact input{
+        float: right;
+        display: block;
+    overflow: hidden;
+    cursor:pointer}    
+    .contact .search-container button:hover {
+        background: #ccc; }
+div{
+text-align: center;
+margin-top: 30px;}
+div label{color: white;
+padding-top: 50px;
+padding-bottom: 50px;}
+.container{height: 550px;
+    width: 350px;
+    margin: auto;
+background-color: rgba(0, 0, 0, 0.575);
+height: auto;}
+.button:hover{color: brown; }
+.button{border-radius: 12px;
+    background-color: rgb(13, 24, 13);
+    width: 100px;
+    font-size: 18px;
+color: wheat;}
+form input{border-radius: 25px;}
+.select{border-radius: 25px;}
+input{color: rgb(1, 7, 8);}
+a{color: white;
+font-family: cursive;}
+a:hover{color: #044888;}
+body{background-image:url(images/photo_2024-04-04_17-36-00.jpg);}
+input:hover{background-color: rgb(10, 191, 197);}
+.pp{height: 50px;}

@@ -1,0 +1,47 @@
+.box1{background-color: rgba(215, 238, 232, 0.452);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 25px;
+    width: 1000px;
+    text-align: center;
+margin-bottom: auto;
+margin-top: 0px;
+text-align: center;}
+    .box1 a{padding-left: 20px;
+        padding-right: 20px;
+        text-decoration: none;
+        font-size:20px;
+    color: white;}
+    .box1 input{
+        float: right;
+        display: block;
+    overflow: hidden;
+    cursor:pointer}    
+    .box1 .search-container button:hover {
+        background: #ccc;}
+h2{text-align: center;
+font-size: 70px;
+font-family:cursive ;
+font-style:inherit;
+color: rgb(23, 155, 155);
+text-decoration: underline;}
+a:hover{color:rebeccapurple;}
+a{text-align:end;
+    font-size: 70px;
+    font-family: cursive;
+    font-style:inherit;
+    color: rgb(23, 155, 155);
+    text-decoration: underline;}
+div a{padding-left:100px ;
+    padding-right: 100px;
+text-decoration: none;}
+div a:hover{color:rgb(23, 155, 155) ;}
+section{margin-top:90px ;
+margin-top: 50px;}
+article{margin-top: 50px;}
+.GG{margin-top: 50px;}
+body{background-image: url(images/me.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;}
+

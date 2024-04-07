@@ -1,0 +1,47 @@
+.box1{background-color: rgba(0, 255, 191, 0.452);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 25px;
+    width: 1000px;
+    text-align: center;
+    text-align: center;}
+    .box1 input{
+        float: right;
+        display: block;
+    overflow: hidden;
+    cursor:pointer}    
+    .box1 .search-container button:hover {
+        background: #ccc;}
+        .box1 a{padding-left: 20px;
+            padding-right: 20px;
+            text-decoration: none;
+            font-size:20px;
+        font-family: cursive;
+    color: blueviolet;}
+  a:hover{color: rgba(243, 18, 18, 0.815);
+        font-family: cursive;}
+h1{color: rgb(1, 37, 37);
+font-family: cursive;
+text-align: center;
+text-decoration: underline;
+font-size: 50px;}
+h2{color: rgb(51, 25, 1);
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;}
+h3{color: rgb(2, 66, 66);
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;}
+  h4{color: rgb(56, 27, 1);
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;}
+    ol{color: rgb(63, 32, 3);
+        font-family: cursive;
+        font-size: 50px;}
+body{background-image: url(images/about\ us.jpg);
+background-size:contain ;
+background-position: center;}
+       
